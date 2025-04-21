@@ -1,0 +1,34 @@
+﻿# 📘 Web Learning Journey - 90 Günlük Yolculuk
+
+Merhaba! 👋  
+Bu repoda, web geliştirme alanında kendimi geliştirmek için hazırladığım **90 günlük öğrenme planımı** gün gün belgeliyorum. Amacım; HTML, CSS, JavaScript ve React gibi teknolojilerde sağlam bir temele sahip olmak ve bu süreçte öğrendiğim her şeyi pratiklerle pekiştirmek.
+
+## 🎯 Hedefim Nedir?
+
+- Temel frontend becerilerimi geliştirmek
+- Modern web teknolojilerini öğrenmek (React, Tailwind, API kullanımı, vs.)
+- Mini projelerle pratiğe dökmek
+- GitHub üzerinden süreci şeffaf şekilde belgelemek
+- Portfolyoma katkı sağlamak
+
+## 🗓️ Planın Yapısı
+
+Plan 3 aya yayılmıştır. Her ay belirli bir temaya odaklanır:
+
+- **1. Ay:** JavaScript Temelleri + DOM Manipülasyonu + Basit Projeler
+- **2. Ay:** React Öğrenme Süreci + Component Mimarisi + State Yönetimi
+- **3. Ay:** Portfolyo Geliştirme + Kariyer Hazırlıkları + LinkedIn ve Freelance Adımları
+
+Her günün sonunda yapılanlar bu repoya işlenerek hem tekrar amaçlı hem de referans olması için saklanacaktır.
+
+## 🛠️ Kullanılan Teknolojiler
+
+- HTML, CSS, JavaScript
+- React.js
+- TailwindCSS
+- Git & GitHub
+- Figma (Tasarım süreci için)
+- Medium / LinkedIn (İçerik Paylaşımları)
+
+
+
